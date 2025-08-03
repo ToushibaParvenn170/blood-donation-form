@@ -14,6 +14,8 @@ This is a simple and responsive Blood Donation Form built using HTML, CSS,  Boot
 (5)Perfect for NGOs, donation camps, or educational projects
 
 🛠️ Tech Stack
+
+
 -HTML5
 
 -CSS3
@@ -42,10 +44,7 @@ This is a simple and responsive Blood Donation Form built using HTML, CSS,  Boot
 <img width="2814" height="1522" alt="Screenshot 2025-08-03 215310" src="https://github.com/user-attachments/assets/7f3753f3-ce54-444c-afd6-a47867e080e3" >
 
 
-(3) SHOWING NAVBAR 
 
-
-<img width="2568" height="1267" alt="Screenshot 2025-08-03 215329" src="https://github.com/user-attachments/assets/de18e196-46d9-447b-bd1f-942c31d0797c" />
 
 
 (4)SHOWING NAVBAR 

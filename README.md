@@ -1,7 +1,7 @@
-🩸 Blood Donation Form
+## 🩸 Blood Donation Form
 This is a simple and responsive Blood Donation Form built using HTML, CSS,  Bootstrap and JS. It allows users to fill out basic information needed for registering as a blood donor.
 
-📌 Features
+## 📌 Features
 
 (1)Fully responsive design using Bootstrap
 
@@ -13,7 +13,7 @@ This is a simple and responsive Blood Donation Form built using HTML, CSS,  Boot
 
 (5)Perfect for NGOs, donation camps, or educational projects
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 
 -HTML5
@@ -26,9 +26,9 @@ This is a simple and responsive Blood Donation Form built using HTML, CSS,  Boot
 
 
 
-📷  PROJECT SCREENSHOTS 
+## 📷  PROJECT SCREENSHOTS 
 
-(1) FORM 
+## (1) FORM 
 
 
 
@@ -36,7 +36,7 @@ This is a simple and responsive Blood Donation Form built using HTML, CSS,  Boot
 <img width="2810" height="1523" alt="Screenshot 2025-08-03 215217" src="https://github.com/user-attachments/assets/94099c5d-57ea-492e-b64b-62727ce9b809" />
 
 
-(2) ENTERING THE FORM 
+## (2) ENTERING THE FORM 
 
 
 
@@ -47,7 +47,7 @@ This is a simple and responsive Blood Donation Form built using HTML, CSS,  Boot
 
 
 
-(4)SHOWING NAVBAR 
+## (3)SHOWING NAVBAR 
 
 
 
@@ -55,14 +55,14 @@ This is a simple and responsive Blood Donation Form built using HTML, CSS,  Boot
 <img width="2827" height="1542" alt="Screenshot 2025-08-03 215347" src="https://github.com/user-attachments/assets/52c6f731-0a6e-430b-ac70-38d47e5ad7a3" />
 
 
-(5) SHOWING MESSAGE TO ENTER INFORMATION 
+## (4) SHOWING MESSAGE TO ENTER INFORMATION 
 
 
 <img width="2833" height="1531" alt="Screenshot 2025-08-03 215407" src="https://github.com/user-attachments/assets/a754e6a4-6794-4c04-9848-308182d1f6c6" />
 
 
 
-(6) FORM FILLED SUCCESSFULLY!
+## (5) FORM FILLED SUCCESSFULLY!
 
 
 
